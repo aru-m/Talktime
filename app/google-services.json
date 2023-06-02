@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337930865075",
+    "project_id": "talktime-813ad",
+    "storage_bucket": "talktime-813ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337930865075:android:ce25676a7f656b384563c6",
+        "android_client_info": {
+          "package_name": "com.example.talktime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337930865075-g53l8j1h5bc6a9kdfcpaqr225fkvjunt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key":
+          "AIzaSyD7DP1-ev7vF-OPMNtBAUiPVN2CC40OHEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337930865075-g53l8j1h5bc6a9kdfcpaqr225fkvjunt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
